@@ -1,101 +1,101 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:1:1-28:12
-INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:1:1-28:12
-INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:1:1-28:12
-INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:1:1-28:12
-MERGED from [com.android.support:support-v4:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/223fbdbcfda2da018a17a19d972a0b2d/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-fragment:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/57beaf3ca06dc9286c6af027eece87a7/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/5fd203c7e60c79b858cf30381a332d26/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/1ba420cfee387cc80ad603182348cf0c/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/f41ba80ef972a706e872ff0798c732ef/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/954c75a8e57eee3e5a721b6376312471/AndroidManifest.xml:17:1-27:12
-INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:1:1-28:12
-INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:1:1-28:12
-INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:1:1-28:12
+ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\77bd12ce3c34a3de7e221f6192ab6cbe\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\dedcdfadb66421799d3987b396444c4f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\60cf0c5cf20b768ab769f10048587d24\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\b7b153ae4c522a633db8a4eb72542931\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\2807c3e5f72e8bdfc59e4ce0abacb05c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\b7be72e7af667ec68b3348070cd54faf\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:1:1-28:12
 	package
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:2:5-32
-		INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml
-		INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:4:5-30
-		INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml
-		INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml
-		INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:6:5-8:41
-INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:6:5-8:41
-INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:support-v4:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/223fbdbcfda2da018a17a19d972a0b2d/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/223fbdbcfda2da018a17a19d972a0b2d/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/57beaf3ca06dc9286c6af027eece87a7/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/57beaf3ca06dc9286c6af027eece87a7/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/5fd203c7e60c79b858cf30381a332d26/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/5fd203c7e60c79b858cf30381a332d26/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/1ba420cfee387cc80ad603182348cf0c/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/1ba420cfee387cc80ad603182348cf0c/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/f41ba80ef972a706e872ff0798c732ef/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/f41ba80ef972a706e872ff0798c732ef/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/954c75a8e57eee3e5a721b6376312471/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/954c75a8e57eee3e5a721b6376312471/AndroidManifest.xml:21:5-23:58
-INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:6:5-8:41
-INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:6:5-8:41
+ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\77bd12ce3c34a3de7e221f6192ab6cbe\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\77bd12ce3c34a3de7e221f6192ab6cbe\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\dedcdfadb66421799d3987b396444c4f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\dedcdfadb66421799d3987b396444c4f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\60cf0c5cf20b768ab769f10048587d24\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\60cf0c5cf20b768ab769f10048587d24\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\b7b153ae4c522a633db8a4eb72542931\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\b7b153ae4c522a633db8a4eb72542931\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\2807c3e5f72e8bdfc59e4ce0abacb05c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\2807c3e5f72e8bdfc59e4ce0abacb05c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\b7be72e7af667ec68b3348070cd54faf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\b7be72e7af667ec68b3348070cd54faf\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:6:5-8:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/223fbdbcfda2da018a17a19d972a0b2d/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\77bd12ce3c34a3de7e221f6192ab6cbe\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:8:9-38
-		INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml
-		INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:7:9-35
-		INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml
-		INJECTED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:10:5-67
+ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:10:22-64
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:10:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:11:5-79
+ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:11:22-76
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:11:22-76
 application
-ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:13:5-26:19
-MERGED from [com.android.support:support-v4:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/223fbdbcfda2da018a17a19d972a0b2d/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/223fbdbcfda2da018a17a19d972a0b2d/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/57beaf3ca06dc9286c6af027eece87a7/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/57beaf3ca06dc9286c6af027eece87a7/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/5fd203c7e60c79b858cf30381a332d26/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/5fd203c7e60c79b858cf30381a332d26/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/1ba420cfee387cc80ad603182348cf0c/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/1ba420cfee387cc80ad603182348cf0c/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/f41ba80ef972a706e872ff0798c732ef/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/f41ba80ef972a706e872ff0798c732ef/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/954c75a8e57eee3e5a721b6376312471/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.0] /home/kyle/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/954c75a8e57eee3e5a721b6376312471/AndroidManifest.xml:25:5-20
+ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:13:5-26:19
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\77bd12ce3c34a3de7e221f6192ab6cbe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\77bd12ce3c34a3de7e221f6192ab6cbe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\dedcdfadb66421799d3987b396444c4f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\dedcdfadb66421799d3987b396444c4f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\60cf0c5cf20b768ab769f10048587d24\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\60cf0c5cf20b768ab769f10048587d24\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\b7b153ae4c522a633db8a4eb72542931\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\b7b153ae4c522a633db8a4eb72542931\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\2807c3e5f72e8bdfc59e4ce0abacb05c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\2807c3e5f72e8bdfc59e4ce0abacb05c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\b7be72e7af667ec68b3348070cd54faf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\alexw\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\b7be72e7af667ec68b3348070cd54faf\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:14:9-39
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:14:9-39
 	android:theme
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:16:9-40
 activity#edu.up.cs301.pig.PigMainActivity
-ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:18:9-24:20
+ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:18:9-24:20
 	android:configChanges
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:19:13-83
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:19:13-83
 	android:name
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:18:19-66
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:18:19-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:20:13-23:29
+ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\alexw\AndroidStudioProjects\CS371PigGameStarter\app\src\main\AndroidManifest.xml:22:27-74
